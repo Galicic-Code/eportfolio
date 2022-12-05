@@ -1,4 +1,6 @@
-Template 'Forty' sucessfully borrowed by M Galicic to create E-Portfolio for PGDip in Cyber Security course @ University of Essex
+Template 'Forty' sucessfully borrowed by M Galicic to create E-Portfolio for PG Cert in Cyber Security course @ University of Essex
+
+******** Original message *******
 
 Forty by HTML5 UP
 html5up.net | @ajlkn
