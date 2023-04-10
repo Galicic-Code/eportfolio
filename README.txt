@@ -1,5 +1,7 @@
 Template 'Forty' sucessfully borrowed by M Galicic to create E-Portfolio for PG Cert in Cyber Security course @ University of Essex
 
+Royalty free images from: https://www.pexels.com/
+
 ******** Original message *******
 
 Forty by HTML5 UP
